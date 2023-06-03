@@ -13,6 +13,6 @@ Features:
 >CRUD operations |
 
 RUN>
-Java Installed.
+Sholud have Java Installed.
 Import the Project folder into the Eclipse IDE and run as Java Application.
 
