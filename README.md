@@ -11,3 +11,8 @@ Features:
 >Audio narrated menu |
 >Display the output for the data structure |
 >CRUD operations |
+
+RUN>
+Java Installed.
+Import the Project folder into the Eclipse IDE and run as Java Application.
+
